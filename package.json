@@ -1,0 +1,15 @@
+{
+  "name": "node-npm",
+  "version": "1.0.0",
+  "description": "primo progetto con i moduli",
+  "main": "people.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "node-commonjs-modules"
+  },
+  "author": "Leonardo Ricci",
+  "license": "ISC"
+}
