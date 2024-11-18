@@ -3,5 +3,5 @@ function createName(firstName, lastName) {
   return { firstName, lastName };
 }
 
-// Esportiamo la funzione
+// Export
 module.exports = createName;
