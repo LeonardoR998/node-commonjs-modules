@@ -4,6 +4,7 @@
   "description": "primo progetto con i moduli",
   "main": "people.js",
   "scripts": {
+    "start": "node people.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
